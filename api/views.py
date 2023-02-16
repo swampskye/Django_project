@@ -81,3 +81,13 @@ def removeTag(request):
 
 *22spring $15,392.95*
 """
+
+
+
+
+{
+    "data":{
+        "username": "swampskye",
+        "password": "12345678"
+    }
+}
